@@ -1,4 +1,4 @@
-public class ReversePairs {
+public class CountInversions {
     public static void main(String[] args) {
         long[] arr = { 2, 4, 1, 3, 5 };
         int n = arr.length;
